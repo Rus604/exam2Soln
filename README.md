@@ -14,4 +14,4 @@ This repository contains either the source used in a problem, or the solution to
     ```
 1. [Problem3.cpp](Problem3.cpp) - This is _a_ solution to Problem 3.
 1. [Problem4.cpp](Problem4.cpp) - This is _a_ solution to Problem 4.
-1. [Problem5.cpp](Problem4.cpp) - This is _a_ solution to Problem 5.
+1. [Problem5.cpp](Problem5.cpp) - This is _a_ solution to Problem 5.
