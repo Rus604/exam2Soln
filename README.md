@@ -2,7 +2,7 @@
 
 This repository contains either the source used in a problem, or the solution to a problem found in Exam 2 given on 11 April 2018.
 
-1. `Problem1.cpp` - This is the source found in Problem 1. Simply compile and execute this file to see the answer.
+1. `[Problem1.cpp](Problem1.cpp)` - This is the source found in Problem 1. Simply compile and execute this file to see the answer.
     ```text
     23
     1
